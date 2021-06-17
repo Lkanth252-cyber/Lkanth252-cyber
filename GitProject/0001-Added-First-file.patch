@@ -1,0 +1,20 @@
+From 7bd868925d04a62b6325acdcb38a311f1d952561 Mon Sep 17 00:00:00 2001
+From: Lkanth252-cyber <84088954+Lkanth252-cyber@users.noreply.github.com>
+Date: Thu, 17 Jun 2021 09:52:55 +0530
+Subject: [PATCH] Added First file
+
+---
+ GitProject/a.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 GitProject/a.txt
+
+diff --git a/GitProject/a.txt b/GitProject/a.txt
+new file mode 100644
+index 0000000..8b99033
+--- /dev/null
++++ b/GitProject/a.txt
+@@ -0,0 +1 @@
++ this is Lakshmikanth Reddy
+-- 
+2.31.1.windows.1
+
